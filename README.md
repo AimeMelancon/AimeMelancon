@@ -16,5 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 J'étudie actuellement au [Baccalauréat en génie logiciel](https://www.etsmtl.ca/programmes-formations/baccalaureat-genie-logiciel?tab=0&filter1=8bf8bf4e-f3c8-48b7-9743-dcfe6bb37d43#8bc58b39-e9eb-4ec4-84fa-31633cb37c88) à l'[ÉTS](https://www.etsmtl.ca/).
-- Ma page github est en développement pour l'instant.
-- Actuellement, je participe au développement du [site web](https://github.com/GeniALE/geniale.github.io) de [GeniALE](https://github.com/GeniALE) .  
+- ⚠️ Ma page github est en développement pour l'instant. ⚠️
+- ⚡ Actuellement, je suis le responsable de tout se qui touche du développement dans le club brassicole de l'ETS, [GeniALE](https://github.com/GeniALE).
+  - [site web](https://github.com/GeniALE/geniale.github.io)
+  - [API](https://github.com/GeniALE/ApiGeniALE)
+  - Et plus encore dans le future !
