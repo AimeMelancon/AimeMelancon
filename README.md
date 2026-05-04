@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 J'étudie actuellement au [Baccalauréat en génie logiciel](https://www.etsmtl.ca/programmes-formations/baccalaureat-genie-logiciel?tab=0&filter1=8bf8bf4e-f3c8-48b7-9743-dcfe6bb37d43#8bc58b39-e9eb-4ec4-84fa-31633cb37c88) à l'[ÉTS](https://www.etsmtl.ca/).
-- 💻 Je fais un stage actuellement à l'[ACIA](https://github.com/ai-cfia) dans l'équipe du Laboratoire IA
+- 💻 J'ai fait mon premier stage à l'[ACIA](https://github.com/ai-cfia) dans l'équipe du Laboratoire IA et je l'ai beaucoup apprécié.
 - ⚡ Je suis le responsable de tout se qui touche du développement logiciel dans le club brassicole de l'ETS, [GeniALE](https://github.com/GeniALE).
   - [site web](https://github.com/GeniALE/geniale.github.io)
   - [API](https://github.com/GeniALE/ApiGeniALE)
